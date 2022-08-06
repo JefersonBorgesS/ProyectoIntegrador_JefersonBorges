@@ -13,17 +13,17 @@ div{
         width: 15%;
         border-radius: 100%;
         left: 3%;
-        top: 550px;
+        top: 100px;
     } 
 }
 
 @media (max-width: 575px){
     #fotodeperfil{
-        position: center;
+        position: absolute;
         width: 30%;
         border-radius: 100%;
         left: 33%;
-        top: 630px;
+        top: 100px;
     } 
 }
 /*etiqueta nombre*/
